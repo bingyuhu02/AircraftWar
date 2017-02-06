@@ -45,4 +45,4 @@ Software: Microsoft Visual Studio 2015, Direct2D Windows appDevelop
 
 ### Screenshot
 
-![8](.\resource\8.png)
+![screenshot](http://i.imgur.com/nQS5jt2.png)
