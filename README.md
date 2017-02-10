@@ -42,3 +42,4 @@ Software: Microsoft Visual Studio 2015, Direct2D Windows appDevelop
 ### Screenshot
 
 ![screenshot](http://i.imgur.com/nQS5jt2.png)
+The above is the screen shot.
